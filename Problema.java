@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class Problema {
     final static Scanner TECLADO= new Scanner(System.in);
 
     public static void main(String[] args) {
